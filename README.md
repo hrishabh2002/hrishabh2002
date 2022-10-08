@@ -1,6 +1,6 @@
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-### Hi, I'm Hrishabh Yadav! A 2nd year undergraduate at KIET Group Of Institution.
+### Hi, I'm Hrishabh Yadav! A 3rd year undergraduate at KIET Group Of Institution.
 
 - 👯 I’m looking to collaborate on **Web Projects**.
 - 🤔 I’m looking for help with **Open Source Project**.
